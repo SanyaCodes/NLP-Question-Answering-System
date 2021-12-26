@@ -1,0 +1,989 @@
+antioxidants	Oxygen	residues	oxidants
+adult	male	phenotype	clone
+Bones	Muscles	Thumbs	backbone
+depth	latitude	variation	elevation
+mountain ranges	fossils	magma	tree rings
+produce hormones	nitrogen hormones	Human Hormones	plant hormones
+chromosomes	egg only	sperm only	sperm and eggs
+vines	fungus	shrubs	deciduous
+increased viscosity	low viscosity	intense viscosity	highly viscous
+incorrect array	normal array	occasional array	regular array
+about 2 meters	about 2 feet	2 inches	about 2 km
+spiders	crustaceans	corals	insects
+magma	organisms	glaciers	sediments
+virus reproductive system​	plant reproductive system​	female reproductive system​	male reproductive system
+flowering	rooting	growth	photosynthesis
+luminescence	radiation	mitosis	electroluminescence
+tails	webbed feet	beaks	wings
+enzymes	carbon	nitrogen	oxygen
+temperature	pressure	ambient	humidity
+osmosis	deposition	transfusion	diffusion
+animal	reproductive	heterotroph	plant
+bleeding	balding	bruising	goosebumps
+epilepsy	senility	growth spurt	bone fractures
+on the surface	in molecules	inside atoms	between atoms
+respiratory system	cardiovascular system	blood vessels	immune system
+potasium	calcium	hydrogen	nitrogen
+spores	photosynthesis	asexual reproduction	sexual reproduction
+colon	liver	brain	stomach
+circulation	digestion	respiration	gender determination
+calcium	copper	magnetite	aluminum
+heavy energy	mechanical energy	Newton's energy	thermal energy
+eyelid	retina	iris	pupil
+do-or-die	fainting	sink-or-swim	fight-or-flight
+vasculature system	ventrical system	lipids system	vestibular system
+vertebrate	bicellular	nonvascular	triploblastic
+amps	amperes	thermals	joules
+biennial	annuals	grasses	perennials
+digestion	spermatogenesis	circulation	photosynthesis
+inorganic material	living organisms	carnivorous organisms	dead organisms
+become super novas	explode	consumed by black hole	become red supergiants
+potassium bonds	ionic bonds	magnetism	hydrogen bonds
+enamel	red blood cells	white blood cells	plaque
+combustion ions	calcium ions	monoxide ions	hydroxide ions
+currents	resistances	weights	voltages
+the sun	significant water pressure	tsunamis	extreme water pressure
+large nervous system	cerebral cortex	limbic system	central nervous system
+inhibitor	metabolites	polymers	enzymes
+natural selection	migration	mutation	genetic drift
+ancient record	biological record	species record	fossil record
+speedometer	thermometer	scale	analytical balance
+to distract predators	to absorb light	to attract a mate	to attract pollinators
+cranial	pelvic	cardiac	abdominal
+enemies	water	honey	food
+cones and tubes	holes and cones	tubes and rods	rods and cones
+nucleic factors	conditional factors	diverse factors	abiotic factors
+nanoparticles	misnomers	analogous	enantiomers
+mineral activity	oceanic activity	deserts activity	volcanic activity
+MUSCULAR SYSTEM	ENDOCRINE SYSTEM	IRCULATORY SYSTEM	central nervous
+vascular	striated	alveoli	smooth
+sigma bonds	omega bonds	theta bonds	pi bonds
+17th	7th	1st	14th
+vertebrate	nematode	arthropod	invertebrate
+nerve column	pillar	brain stem	backbone
+boiling	change	freezing	melting
+secretion	digestive	uterian	ovarian
+carnivore	herbivore	vegetarian	omnivore
+permeability	electrolysis	electrolysis	osmosis
+gravity	change	interference	motion
+Transition	Growth and Development	parthenogenesis	metamorphosis
+a economical one	a lateral one	a thermodynamic one	a neutral one
+air streams	cause streams	burst streams	jet streams
+bladder	lungs	liver	kidneys
+birth cycles	gene pools	mutations	life cycles
+diode	cathode	calomel	the anode
+iris	pupil	cornea	retina
+food	gravity	evolution	energy
+food pyramid	oxygen chain	water chain	food chain
+California condor	peregrine falcon	pteradactyl	golden eagles
+electrons	ions	epidermis	nucleus
+skin	taste buds	hairs	teeth
+hydrogen	carbon	sulfur	methane
+lungs	tongue	ears	kidneys
+one quark	one joule	one ohm	one mole
+echolocation	sensory perception	projection	vision
+rodent	bat	carnivore	a marsupial
+static	predatory	symbiotic	parasitic
+metamorphic	igneous	geode	sedimentary
+nutrients	mirrors	Permable	osmosis
+isomers	electrons	nuclei	neutrons
+continental expansion	continental shift	boundary drift	continental drift
+work	energy	pressure	torque
+fibers	veins	cords	tendons
+thought	smell	hearing	vision
+bee and pollen	root and pollen	salt and pollen	seed and pollen
+motion	mineral	demand	energy
+isochord	botachord	laxchord	notochord
+invisible light	sunlight	ultraviolet light	visible light
+dna and egg	sperm and dna	uteral and sperm	sperm and egg
+spinal cord	pons	cerebrum	medulla
+zones	crystals	faults	plates
+toddler	newborn	fetus	infant
+indices	suffixes	digits	prefixes
+fundamental units	calculated measure	known units	derived units
+magnetic	potential	thermal	kinetic
+constant velocity	building velocity	ending velocity	terminal velocity
+testes	uterus	fallopian tubes	ovaries
+skeletons	speed	insulation	camouflage
+adulation	oxidation	differentiation	coagulation
+biology	biochemistry	climatology	ecology
+umbilical	uterine	protein	amniotic
+genetic DNA	genetic mutation	genetic code	genetic drift
+bacterial	parasite	exploration	implantation
+plasma	chemical reaction	pigment	fluorescence
+allergy	schizophrenia	malnutrition	cancer
+Will float	Will dissolve	Will break up	it will sink
+stomach	brain	lungs	skin
+a forest	a lake	a crater	a hill
+compression	reproduction	motility	segmentation
+lung	respiratory sacs	ganglion	alveoli
+yearly	weekly	quarterly	monthly
+moons	craters	satellites	rings
+alcohol	sulfur	cellulose	ethylene
+muscle	muscle	feathers	hair
+tongue	eye	knee	head
+mosses	ferns	fertilizer plants	seed plants
+chromosomes	ions	electrons	ketones
+Monocyte Cells	heterogeneous cells	crustal cells	prokaryotic cells
+muscles	organs	lungs	ligaments
+enzymes	acids	electrolytes	hormones
+pulmonary edema	gigantism	fibrosis	elephantiasis
+theoretical oceanography	experimental oceanography	thermal oceanography	physical oceanography
+body	tail	nucleus	head
+ganglion	idioma	goychay	hypha
+carbon rain	dioxide rain	acid snow	acid rain
+killing organisms	accumulating dead organisms	producing dead organisms	decomposing dead organisms
+sporozoans	pores	pistills	gibberellins
+stomach	esophagus	large intestine	small intestine
+neutrons	lipids	proteins	cells
+upper limb	genitals	cranium	lower limb
+spores	toxins	organic	gametes
+hydrocarbons	nitric acid	calcium oxides	nitrogen oxides
+pie chart	venn diagram	circle graph	bar graph
+replication	adenylate	chromosome	helicase
+islands	volcanic sediment	mountains	microcontinents
+zygotes	ribosomes	phenotypes	chromosomes
+producer	predator	consumer	scavengers
+equivalent biomes	old biomes	fossil biomes	terrestrial biomes
+aspects	phlylum	species	domains
+veins	pulmonary	coronary	carotid
+helium	carbon	boron	hydrogen
+covalent bonds	potassium bonds	helium bonds	hydrogen bonds
+hydrogen	carbon	nitrogen	oxygen
+phenotype bonds	magnetic bonds	dissonance bonds	covalent bonds
+non-covalent bonds	metal-metal bonds	carbon bonds	chemical bonds
+rat	rabbit	elephant	mouse
+cavity	glenoid fossa	acetabulum	orbit
+groundwater	animals	evaporation	sunlight
+sulfur	carbonate	zinc	cellulose
+virus	bacterium	yeast	fungi
+crust, core, magma	oceans, land, air	troposphere, atomosphere, xerosphere	crust, mantle, core
+susceptible variation	recessive variation	alternative variation	genetic variation
+uplift muscle fibers	luminous muscle fibers	heart muscle fibers	skeletal muscle fibers
+loops electron	modular electron	Water electron	valence electron
+molecule	calcite	phosphate	sulfonate
+reticular	porous	osmotic	lumen
+big tail	no intestines	no mouths	no lungs
+insects	mammals	reptiles	birds
+stomach	lung	liver	brain
+plasma	hydrogen	hematocrit	hemoglobin
+volume	mass	density	specific gravity
+excretory system	nervous system	respiratory system	the circulatory system
+vestigial organs	layer organs	bypass organs	accessory organs
+viruses	receptors	microorganisms	neurotransmitters
+glycerol	plasma	cortisol	cytosol
+rolled force	quarter force	kinetic force	net force
+weight	light	centrifugal	gravity
+ocean floor	groundwater	water table	bedrock
+surface	height	weight	diameter
+absorption	regeneration	respiration	digestion
+shark	abalone	moray	lamprey
+thermal	genetic	atmospheric	physical
+nervous system	urinary system	endocrine system	digestive system
+nitrogen	carbon	carbon dioxide	oxygen
+left side	right side	top	underside
+third	fourth	first	second
+triglycerides	lipids	hormones	prostaglandins
+quantum years	light months	gravity years	light years
+diffusion	electrolysis	mitosis	osmosis
+diversity	natural selection	range of motion	norm of reaction
+erythrocytes	lipocytes	osteoclasts	neurons
+calcites	lead	ligands	fullerenes
+cranial cavity	oral cavity	thoracic cavity	pericardial cavity
+the ureter	the penis	the glans	the testes
+rock	limestone	crust	lava
+systemic circulation	sensory circulation	metabolic circulation	pulmonary circulation
+amphibians	carnivores	omnivores	herbivores
+personal hygiene	experimental control	ionization	aseptic
+anode cell	stimulation cell	voltaic cell	galvanic cell
+nucleus	Golgi apparatus	enzyme	mitochondria
+fermentation and predators	entrainment and predators	starvation and predators	desiccation and predators
+humidity	spin cycle	tidal	wind
+bones	ovaries	heart	lungs
+snakes	trees	trilobites	dinosaurs
+ribosomes	cells	receptors	chromosomes
+gastrointestinal	atypical	mutation	marsupial
+pressures in nuclei	destruction of nuclei	separation of nuclei	changes in nuclei
+it patterns it	it is unchanged	it decreases it	it increases it
+cycle	solar	planetary	lunar
+carbon	mineral	thermal	chemical
+neutrons and electrons	cells and electrons	neutrons and protons	protons and electrons
+eggs	axons	cells	genes
+harmonic compound	magnetic compound	saline compound	ionic compound
+flowers	bacteria	animals	plants
+groundwater	reservoir water	runoff	surface water
+Neptune	Mercury	Jupiter	venus
+black rods	dwarf stars	red holes	black holes
+proteins	enzymes	carbohydrates	hydrocarbons
+skull	radius	ulna	axis
+interspecies competition	commensalism	adaptive behavior	intraspecific competition
+liquid charge	stellar charge	sunlight charge	electrical charge
+money	gravity	entertainment	light
+surface energy	membrane energy	specific energy	activation energy
+fish	reptiles	mammals	amphibians
+filter	disperse	vaporize	fuse
+hydrogen peroxide	carbon monoxide	nitrous oxide	carbon dioxide
+convex lens	surface lens	glass lens	concave lens
+nuclear reaction	destructive fusion	chemical reaction	nuclear fusion
+active lenses	powering lenses	sensing lenses	converging lenses
+occurs	changes	Higher	increases
+pressure	location	reason	direction
+impoundment	compass	compress	electromagnet
+minute	hour	day	second
+ions	protons	electrons	neurons
+two	five	four	three
+functional nervious system	useful nervous system	obsolete nervous system	peripheral nervous system
+adipose tissue	ligaments	plasma	compact bone
+diverse behaviors	protective behaviors	impulsive behaviors	innate behaviors
+pollen	bacteria	fossil	fungi
+corals	bones	detritis	fossils
+apoptosis	inhibition	digestion	meiosis
+shell	ionic	gradient	valence
+ionic bond	metallic yield	temporal bond	metallic bond
+residual energy	exhibit energy	mass energy	kinetic energy
+respiratory system	circulatory system	attentive system	nervous system
+vascular	neither do	both do	nonvascular
+waning moon	half moon	crescent moon	a full moon
+decomposition energy	biocomposte energy	byproduct energy	biomass energy
+apollinaris centauri	andromeda centauri	alpha centauri	proxima centauri
+similar state of solute	gas state of solute	acid state of solute	chemical state of solute
+nitrogen	calcium	carbon	oxygen
+alternating loops	response loops	intensity loops	feedback loops
+blackouts	growth spurts	bulging muscles	mood swings
+positive force	gravitational force	potential force	magnetic force
+Osteoclast	Dendritic cells	brain cells	blood cells
+fragments	organisms	pollutants	sediments
+primarily respiration	decomposition	osmosis	cellular respiration
+glucose	protons	bacterial	mitochondria
+bees and blossoms	seed and leaves	bud and stem	pollen and eggs
+a transition	concentrate	complex	a solution
+yeasts	cone-bearing plants	deciduous trees	flowering plants
+dioxins	organelles	genes	mutagens
+tension	vibration	gravity	friction
+Nervous	Epithelial	Connective	muscle
+density	concentrations	temperature	mass
+chromosomes	lesions	eggs	genes
+4	6	9	3
+spectrum light	infrared light	UV light	visible light
+Bohr's law	Mendelian system	zoology	linnaean system
+three meters	four meters	one meter	two meters
+link	structure	transition	solution
+matter	mass	chemical	element
+ions	molecules	ether	atoms
+charge	resistance	tension	voltage
+skeletal system	nerve system	tissues system	digestive system
+chloroplasts	dna	chromosomes	ribosomes
+carbon	liquid	gas	plasma
+identical twins	spawning	laying eggs	live birth
+lipids	lactic	acetic	amino
+chemistry	geology	botany	biology
+reproductive organs	eyes	a heart	backbone
+sauropods	diplodocus	Rapter	deinonychus
+multicellular organisms	macroscopic organisms	hematopoietic organisms	unicellular organisms
+mosses	coral	bacteria	fungi
+tectonic waves	sonic waves	volcanic waves	seismic waves
+rest	scale	default	resonance
+Fusion	function fission	multiple fission	binary fission
+internal pathway	direct pathway	hydrogen pathway	metabolic pathway
+hydrostatic skeleton	exoskeleton	thorax	endoskeleton
+nitrogenase i	pasiphaë i	interphase	prophase i
+varieties	trees	atoms.	seeds
+ganglia	Megasporangia	Gametangia	microsporangia
+urine	blood	semen	vaginal secretions
+circulatory system	lymphatic system	bacterial system	nervous system
+decibels	volume	type	speed
+in the ocean	on mountains	in deserts	along stream beds
+extinction is close	it is cooling down	it is heating up	eruption is close
+biosphere	habitat	evolution	biodiversity
+vitamin difficiency	a type of cancer	accumulated disease	inherited disorder
+jewel	coal	gem	ore
+by shapes	impurities they contain	by color	minerals they contain
+gravity	gases	tissue	fluid
+calcium	inflammation	viruses	tumor
+pineal	adrenal	thyroid	pituitary
+isotopes	negative charges	electron bonds	actual charges
+invisible	porous	crystalline	impermeable
+trichina	xerophyte	avian	amniota
+Virus	bacterium	algae	bacteria
+twitching	cycling	shifting	excursion
+human-caused scarring	river erosion	wind	glacier
+2 weeks	4 months	4 days	4 weeks
+fungi	parasites	bryophytes	epiphytes
+wheel and axle	pendulum	atomic watch	simple harmonic oscillator
+circulatory system	skin cells	endocrine system	nervous system
+mucus or nucleus	membrane or mitochondria	ribosomes or nucleus	cytoplasm or nucleus
+thermal	internal	thermal	physical
+biochemical	endotropic	endothermic	exothermic
+defecate	illuminate	consume	pollinate
+movements	colonies	biomes	communities
+protists	plants	fungi	animals
+respiratory	circulatory	skeletal	digestive
+neutrons	quarks	electrons	protons
+wind patterns	spirogyra	pollenation	photoperiodism
+trisomy 22	gametes 21	chromosome 21	trisomy 21
+proteins division	experimental division	flight division	cell division
+guesses	assumptions	speculation	models
+density	saturated fat	pH level	dissolved solute
+ionic bond	quadruple bond	magnetic bond	triple bond
+minimization	erosion	destruction	fragmentation
+pancreas	brain	liver	lungs
+oxygen	hydrogen	electricity	heat
+friction	energy	power	pressure
+Chambers	clumps	screws	electromagnets
+three	six	ten	two
+smelling salts	antacid	Tylenol	aspirin
+muscle	heart	kidney	tissue
+mixed temperatures	Hot temperatures	water temperatures	cold temperatures
+sedimentation	crust spreading	continental drift	seafloor spreading
+boric acids	mutation acids	protein acids	amino acids
+cardiac diseases	respiratory diseases	inborn errors of metabolism	endocrine diseases
+osmosis	fertilization	transpiration	gas exchange
+fats	proteins	particles	hydrocarbons
+electrons	neutrons	nucleus	protons
+feet	skin	mouth	backbone
+bacteria	oil	dye	scales
+gonad	fetus	gamete	zygote
+surface crust	mantle	soil	oceanic crust
+biologists	extinction	mutations	fossils
+surface	polar	natural	solar
+electrolysis	mitosis	urinalysis	meiosis
+Reaction	diffusion	fusion	fission
+50 %	60 %	75%	100%
+male-related traits	gender-linked traits	chromosome-linked traits	sex-linked traits
+Oral Cavity	chloride	Larynx	alveoli
+gout	diabetes	hepatitis	shingles
+particles	gas	atoms	solvent
+signal	amplification	reverberation	echo
+water	a cup	another atom	a base
+hunters	alphas	leaders	predators
+gastrointestinal	liver	inflammatory	autoimmune
+stems	cells	leaves	flowers
+sixteen haploid cells	eight haploid cells	three haploid cells	four haploid cells
+hydroelectic	solar	wind power	fossil fuels
+migration	rust	sediment	erosion
+segments	compounds	structures	elements
+Bed Rock	Lava	Coral	impermeable rock
+anterior cavity	proximal cavity	functional cavity	spinal cavity
+lipids	nutron	cells	proteins
+independent organization	commensalism	organ-level organization	cell-level organization
+sulfuric reactions	endothermic reactions	biochemical reactions	exothermic reactions
+cancers	microbes	fistulas	nodules
+air	energy	weight	light
+hypothalamus	cellular hydration	altostratus	pinocytosis
+oasis	waterfall	stream	spring
+molecules	enzymes	proteins	cells
+speciation	amplification	education	sublimation
+peritoneal dialysis	limbic dialysis	arterial dialysis	hemodialysis
+noble gases	metalloids	adjacent elements	radioactive elements
+chloroplasm	protein	chromosomes	cytosol
+teeth	fingernails	salivary glands	hair
+Mars	jupiter	Venus	saturn
+x-rays	WIFI	radio waves	microwaves
+left lobe	central lobe	internal lobe	right lobe
+reproduction	binary fission	pollination	cell division
+maintaining universe	draining universe	contracting universe	expanding universe
+complete and simple	complete and fluid	gastric and monogastric	complete and incomplete
+shallow - posterior axis	east-west axis	vertical-horizontal plane	anterior-posterior axis
+destabilized	galvanized	ostracized	metastasized
+bony fishes	reptiles	mammals	birds
+2	1	5	4
+metabolism	rejuvenation	regeneration	remission
+bristle	epidermis	epithelium	cuticle
+crystalline	larva	pupal	pupa
+light	volume	temperature	medium
+metamorphosis	pollination process	asexual reproduction	alternation of generation
+extracts	pollutants	solutions	compounds
+nuclear fission	germination	mitosis	binary fission
+cardiovascular system	physical system	skeletal system	digestive system
+vaporization	deposition	ionization	sublimation
+mucus	hairs	stomach	anus
+temperature variation	specific gravity	solitary heat	specific heat
+the moon	volcanos	the oceans	the sun
+antibacterial drugs	steroid drugs	herbal remedies	antiviral drugs
+electric	fossil	geothermal	renewable
+large	outer	superficial	core
+foliage resources	chemical resources	liquid resources	abundant resources
+cells	seeds	roots	petals
+metals and carbonates	metals and freshwaters	metals and organisms	metals and nonmetals
+temperature	mass	fuel	energy
+muscle fibers	synovial fluid	collagen fibers	nerve fibers
+reflecting telescopes	refracting telescopes	space telescopes	radio telescopes
+amino acid chains	organ systems	RNA	dna
+modes	ion	genomes	alleles
+consumers	catalysts	energy	products
+enzyme	catalyst	acid	base
+differentiation	evolution	photosynthesis	reproduction
+wind	electricity	air	light
+fight	look	breed	move
+vapor engine	convection oven	battery	combustion engine
+lipids	protons	sugars	proteins
+vaporizing	boiling	condensing	melting
+monologous	heterologous	analogous	homologous
+homeostasis	saturation	density	ph
+cystosol	cocklebur	chlorophyll	sporopollenin
+Monocyte	Megakaryocyte	Erythrocyte	eukaryotic
+electrolysis	hydrolisis	metabolism	glycolsis
+Milky Way	nebuli	constellations	star clusters
+balance	liquid	composition	equilibrium
+melting tube	cohesive tube	pressure tube	capillary tube
+they are unchanged	they are equal	they are greater	they are lower
+cloning	asexual reproduction	synthetic reproduction	sexual reproduction
+neither	animals	plants	both
+rain	rough	sunny	stormy
+earlobe	cerebrum	auricle	eardrum
+meteors	asteroids	craters	comets
+mesozoic era	paleozoic era	cretaceous period	cenozoic era
+plasma	neutron	beta	gamma
+phylum	fossils	variation	evolution
+sodium and solvent	solute and cytosol	concentration and solvent	solute and solvent
+three	four	eight	seven
+density	protons	ions	electrons
+subtropics	taiga	desert	tundra
+traitor cells	compromised cells	weak cells	host cells
+magnetic process	oxidized process	biochemical process	exothermic process
+testosterone	t3	estrogen	melatonin
+fuel	heating	momentum	energy
+intestine and collagenous	silicone and collagenous	scar and collagenous	adipose and collagenous
+cardiovascular system	circulatory system	central system	nervous system
+the stamen	the seed	the flower	the pistil
+atoms acid	proteins acid	salts acid	amino acid
+Stimulant	dietary	additive	ephedra
+amino acids	carbohydrates	nucleotides	hydrocarbons
+jung	darwin	harrold	aristotle
+helium	nitrogen	calcium	hydrogen
+system	muscle	node	organ
+it will sink	it will bobble	it will explode	it will float
+tendons	arteries	veins	organs
+chemistry	biology	phrenology	alchemy
+reactions	organisms	opposites	isotopes
+water	yeast	pigment	solvent
+wing size	gland hair	body oder	body hair
+reflective point	electromagnetic index	wavelength	refractive index
+accelerated	inverted	simple	impulse
+cycads	gymnosperms	angiosperms	seedless vascular plants
+DNA	pollenators	chlorophyll	a supply of stored food
+microbe	microbe	genome	pathogen
+friction	stasis	temperature	thrust
+the dodo	the homing piegon	the rock penguin	the passenger piegon
+ammonia cycle	water cycle	nitrogen path	nitrogen cycle
+glucose	carbohydrates	fats	proteins
+spores	gymnosperms	ferns	angiosperms
+middle	upper	right	left
+reefs	corals	ridges	seamounts
+family	habitat	community	colony
+shift function	green function	rush function	wave function
+magnetism	electrical attraction	conductivity	radioactivity
+plasmid	epithelial	aqueous	amniotic
+nutrition	exercise	vacuuming	preventive vaccinations
+to clean themselves	to kill rival snakes	to scare humans	to kill prey
+courtship display	chewing	tearing flesh	inject venom
+high blood pressure	obesity	diabetes	cancers
+stamen	testes	cones	ovaries
+mechanical engineering	technological expansion	industrial design	technological design
+environment	colony	hive	community
+Newton's model	kinetic model	Pascal model	bohr model
+variable wave	kinetic wave	latitudinal wave	longitudinal wave
+extension plane	allow plane	rough plane	inclined plane
+their flowers	their stems	their roots	their leaves
+force	weight	gravity	light
+fission bond	covalent bond	helium bond	hydrogen bond
+inhibitors	catalysts	pathogens	mutagens
+a embryonic vector	an rna vector	a dna vector	a viral vector
+behaviors	acceleration	kinematics	dynamics
+oxygen	helium	hydrogen	carbon
+Molten	igneous	sediments	metamorphic
+carbon	molecules	moisture	sunlight
+chromosomes	hormones	cells	embryos
+james carpenter	roger granger	harold black	frederick cottrell
+microwave gases	ozone gases	carbonate gases	greenhouse gases
+tune cells	magnet cells	blood cells	collar cells
+elliptical	irregular	triangular	circular
+fluxes	protazoas	sporozoans	autoinducers
+walls	fibers	atoms	pores
+ions	electrons	atoms	photons
+carbonic	steel	copper	ore
+resources	energy	water	heat
+water	light	sound	air
+radar	GPS	topography	sonar
+chemistry	carbon	physical	chemical
+natural reproduction	natural variety	natural change	natural selection
+sponsor cell	anchor cell	brain cell	host cell
+growers	harvesters	refiners	producers
+carbonates	silicates	metalloids	nonmetals
+diffusion	fermentation	vaporing	condensation
+chloroplasts and nuclei	Prokaryotic and eukaryotic	yeast and prokaryotic	bacterial and eukaryotic
+stomach	adrenal	pituitary	thyroid
+metamorphisis	introversion	ceramics	metallurgy
+glands	clots	brains	veins
+photic and aphotic	tropic and subtropic	water and air	biotic and abiotic
+rna	dna	protein	genetic code
+infection	assimilation	pathogen	vaccine
+stretch	stretch	height	length
+hydrocarbons	amino acid chains	peptide groups	carbon chains
+biosynthesis	plasmosis	endocytosis	exocytosis
+shared system	changing system	sure system	isolated system
+tendon	electron	layer	capillary
+relocating walls	diverting walls	managing walls	retaining walls
+drilling	molecules	osmosis	electrolysis
+salts	pigments	non-energetic nutrients	micronutrients
+meteorological	geologic	geographic	topographic
+increase	stays the same	depends on other factors	decreases
+progression	extraction	calibration	deceleration
+wave	vibration	speed	vector
+maturation	infection	reproduction	photosynthesis
+glucose	protein	nutrients	carbohydrate
+propagate	destroy	pull	repel
+hurricane	cool air mass	dry air mass	warm air mass
+extirpation	gentrification	fasciculation	fossilization
+magnetic energy	static energy	gravitational energy	electromagnetic energy
+heat	carbon dioxide	pressure	energy
+skeleton	spine	chest	skull
+pollenation	mutualism	parasitism	commensalism
+electrons and neutrons	protons and electrons	atoms and neutrons	protons and neutrons
+intensity	vibration	microscopic	radioactivity
+necklash	tail bone	uterus	pelvis
+Metal molecules	aluminum	nickel	ore
+kilograms (kg)	meters (m)	pounds (lbs)	newton (n)
+asexual reproduction	nutrient production	protection from cold	sexual reproduction
+osteoclast cells	human cells	dendritic cells	stem cells
+two percent	nine percent	thirty percent	three percent
+colliders	laser beams	accelerators	reactors
+food chain	decomposition energy	trophic level total	net primary productivity
+spermatozoa	fetus	zygote	oocyte
+glucose	helium	carbon	hydrogen
+quickly	rapidly	steadily	slowly
+heats it	vents it	charges it	cools it
+spontaneous mutation	mass migrations	Big Bang	mass extinction
+bark ridges	colors	veins	rings
+stamen	anthers	stalk	corolla
+neutral	dull	magnetic	radioactive
+sedimentary magmas	compacted magmas	combustible magmas	felsic magmas
+400	100	900	200
+critical fission	atomic fusion	nuclear fusion	nuclear fission
+neutron bonds	hydroxyl	ionic	covalent
+a toxin	a polymer	a pathogen	a virion
+an electron	a nuclei	a proton	a neutron
+white	green	purple	blue
+compound acid	minimal acid	sulferic acid	amino acid
+insects	crustaceans	cephalopods	arthropods
+four	eight	Ten	two
+memories	organs	RNA	dna
+viruses	tumors	algae	bacteria
+temperature	weather	week length	day length
+vireos	water cycle	carbon cycle	krebs
+absorption	refraction	disintegration	abrasion
+Multifaceted hormones	reflection hormones	Utility hormones	sex hormones
+opposite	symbiotic	mutual	homologous
+Every 96 hours	Every 24 hours	Every 48 hours	every 12 hours
+growth phase 1	carbonate phase 2	dioxide phase 2	growth phase 2
+reduce size and number of cells	increase number of limbs	increase size and number of genes	increase size and number of cells
+triangle	circle	line	arrow
+Scopes	Sagan	cannon	darwin
+wheat	egg	corn	milk
+gene	dna	rna	mrna
+physiological	developmental	central	peripheral
+cleaning the soil	cleaning water	killing bacteria	balance of ecosystems
+blue	red	yellow	purple
+dendrites	axons	nociceptors	mechanoreceptors
+experience	inquiry	theory	science
+cultures	pathogens	algae	bacteria
+temperature	gravity	resistance	pressure
+newborns	cells	sporozoans	amoebozoans
+nervous	cardiac	gastrointestinal	cardiovascular
+cloud	mass	cover	front
+evaporation	expiration	propagation	transpiration
+two	three	four	one
+4	3	1	6
+origins	dna	trait	pedigree
+arthropods	bacteria	eukaryotes	chordates
+lubricating	codifying	sterilizing	emulsifying
+embryo	fetus	ovary	tadpole
+platelets	infections	androgens	medications
+mothers	siblings	eggs	sperm
+oxidation	respiration	fertilization	chemiosmosis
+chloroplasts	sphenopalatine	notochord	plasmodesmata
+prosauropod	Gives Live birth	dugongs	monotreme
+chlorophyll	epidermis	filaments	phospholipids
+Japan	Egypt	India	china
+frames	doors	walls	bolts
+kinetic energy	mechanical energy	thermal energy	potential energy
+metabolism	dormancy	consciousness	homeostasis
+tendon	xerophyte	pollenation	perimysium
+multiple	simple	expanding	linear
+double-headed	resonance arrows	equilibrium arrows	opposite-headed
+gravitational kinetic energy	chemical energy	thermal energy	gravitational potential energy
+humans	subdivisions	proteins	individuals
+immobile mold spores	bacteria	viruses	airborne mold spores
+pupillary sphincter	pyloric sphincter	urethral sphincter	gastro-esophageal sphincter
+scent	claws	variation	camouflage
+brain stem	lung	muscle	joint
+nutrients	gas	metals	specific ions
+electrolysis	oxidation	electromagnetic	galvanic
+equilibrium	peak velocity	momentum	linear acceleration
+lens	cornea	aperture	retina
+herbivores	reptiles	omnivores	amphibians
+water	nitrogen	carbon	oxygen
+the nerves	the tissue	the muscles	the skin
+three	four	one	two
+cerebrum	Nasal bone	mandible	the cranium
+pure	artificial	simple	natural
+metals	minerals	protiens	bases
+it contracts	it brightens	it speeds up	it bends
+lead flood battery	positive terminal	lead electricity battery	lead storage battery
+molecules	compound	fluids	solute
+solid and gas states	saturated and unsaturated	liquid and gas states	liquid and solid states
+vision	touch	taste	hearing
+prometheus	zodiac	gemini	aquarius
+disc groups	carbon groups	soda groups	hydroxl groups
+comets	meteorites	fossils	asteroids
+light	chlorophyll	fruit	food
+arch	grid	temperature	pole
+humidity	cold	rainfall	heat
+cytokinesis	mutation	epistasis	mitosis
+pieces	Fungus	herbs	mushrooms
+color	shape	weight	streak
+gymnosperms	filaments	tubules	gametophytes
+carbohydrate	sulfur	carbon monoxide	methane
+nitrogen	carbon dioxide	methane	oxygen
+kelp	krill	algae	coral reefs
+geothermic	hypothermic	exothermic	endothermic
+cells	skeletal	valve	ventricle
+drowning	silt	sand dunes	erosion
+microbiology	neurobiology	chronology	ethology
+proteins	carbohydrates	carbohydrates	enzymes
+bamboo	mold	bark	mushroom
+separated layers	erosion	magnetic layers	horizontal layers
+ear canal	hammer	ear lobe	the cochlea
+osmosis	apoptosis	hyptoxin	auxin
+fallopian tubes	a kidney	the pancreas	an ovary
+tension	vibration	sound	friction
+glycolysis	cellular respiration	spermatogenesis	photosynthesis
+stored	added	multiplied	removed
+fats	proteins	vegetables	carbohydrates
+spikes	edges	variations	scales
+systolic pressure	respiratory	lung	heart
+difficult	slippery	complex	simple
+secondary levels	producer levels	consumer levels	trophic levels
+platelets	plasma	white blood cells	red blood cells
+aural	irregular	electromagnetic	transverse
+ocean evaporation	freezing glaciers	cloud precipitation	it repeats itself
+earth	glass	metal	water
+amino acids	sperm and proteins	muscle tissue	dna and proteins
+anode group	oxidation group	acid group	alkyl group
+fat	lipids	air	water
+liquids	matter	gases	solids
+Infections	DNA	Mutations	cancer
+fusion	radiation	decay	fission
+at no locations	at one-two locations	at the same location	at different locations
+cells	novas	orbits	galaxies
+purifying	climate change	global warming	pollution
+internal	kinetic	fluid	mechanical
+evolution	environmental selection	birth	natural selection
+cool and snowy	sunny and populated	rainy and hot	hot and sunny
+interneurons	fat cells	dendrites	nephrons
+a spore	a twin	a sister chromatid	a seed
+reductase	rna ligase	enzymes	by dna ligase
+cells	mirrors	collisions	rays
+cover	fire	heat	sun
+Nitrate	olivine	calcite	disaccharide
+size	age	direction	distance
+carbon	helium	nitrogen	oxygen
+arrays	isotopes	ventricals	orbitals
+voltage	wattage	current	resistance
+changes	stages	surfaces	phases
+nitric acid	urea acid	beryllium acid	citric acid
+fibrosis	phimosis	sclerosis	atherosclerosis
+liver	kidneys	large intestine	small intestine
+LED light	fluorescent light	incandescent light	uv light
+Seven	six	two	four
+keratinocytes	tumors	lungs	lymphocytes
+annelid	sauropod	crustacean	arthropod
+slope	concave	vertex	convex
+at relative temperatures	at hot temperatures	at high temperatures	at low temperatures
+electronic spectrum	mechanical spectrum	anomalous spectrum	electromagnetic spectrum
+protazoa	proteins	bacteria	mitochondria
+antennae	alveoli	flagella	cilia
+extraction cycle	tissue cycle	menopausal cycle	menstrual cycle
+crystalline process	nuclear process	oscillatory process	electrochemical process
+predator	bacteria	insect	parasite
+moderate altitude	low altitude	low air density	high altitude above sea level
+cytoplasm	cellulose	endoskeleton	cytoskeleton
+viruses	predators	host	parasite
+absorption	transpiration	evaporation	evaporation
+vegetation	tissues	nutrients	photosynthesis
+zygomorphic	endothermic	actinomorphic	ectothermic
+matter receptors	consumption receptors	optic receptors	odor receptors
+human growth hormone	chromosomes	sex cells	stem cells
+poor conductors	electromagnets	super-insulators	superconductors
+whole numbers	zeros	coefficients	exponents
+metal	colour	light	sound
+energy	greek	compound	nuclear
+gas	mineral	liquid	chemical
+cartilaginous joints	contraction joints	attraction joints	expansion joints
+plasma	blood	sperm	milk
+gout	dementia	diabetes	cancer
+genetic recreation	duplication	genetic repeat	clone
+space	equator	south magnetic pole	north magnetic pole
+neurons	skin cells	nephrons	muscle
+predestination equations	analogous equations	wave function	deterministic equations
+combustion	decomposition	inflammation	dissociation
+fission	electricity	gravitational fields	magnetic fields
+calcium bonding	carbon bonding	helium bonding	hydrogen bonding
+deep waves	volcanic waves	particle waves	seismic waves
+fourth trimester	first trimester	second trimester	third trimester
+taxonomy	solar system	plants	ecosystems
+bone	cellulose	collagen	skin
+phylum	class	domain	kingdom
+explode	depart	melt	collide
+legs	tail	gluteus	abdomen
+radius	tip	compass	axis
+fructose	gluclose	hydrolysis	pyruvate
+length	longitude	latitude	direction
+solid marrow	liquid marrow	attached marrow	bone marrow
+glucose	protein	amylopectin	glycogen
+sandy soil	xerophyte	loam	pedalfer
+the vibration drop	amplitude	energy loss	the voltage drop
+the ridges	the left side	the bottom	the walls
+pollution precaution	lab organization	office politics	safety precaution
+temperature	velocity	pressure	ph
+insulin	red blood cells	urea	white blood cells
+beans	flowers	fruits	leaves
+oil	any liquid	saltwater	water
+bivalves	arthropods	ciliate	protists
+thumb	pelvis	foot	hand
+in leaves	in folds	in stems	in cones
+fibroblasts	golgi apparatus	veins	chloroplasts
+the transform rate	time zone	reaction scale	the reaction rate
+rainforest	tropical	arctic	mediterranean
+sound	current	light	electricity
+acidic	enzymatic	skeletal	anaerobic
+liquid	solid	plasma	gas
+migration	predation	intraspecies competition	human activities
+geology	physiology	biology	chemistry
+more	smaller	less	constant
+proteins	magnesium	metabolic	cholesterol
+hydrogen	fuel	carbon	energy
+mixture	gas	solid	liquid
+no medicine needed	no pain pills needed	no treatment needed	no surgery needed
+creators	fertilizers	killers	as decomposers
+efficient growth	component growth	lasting growth	logistic growth
+neutrophils	dermis	Flexing	meninges
+settle	evaporate	freeze	move
+toxins	tumors	lesions	clots
+mushrooms	sediments	crustaceans	algae
+radiation levels	height levels	heat levels	decibel levels
+plate divergence	transformation	tectonic movement	transform plate boundary
+vibration	gravity	tension	friction
+pulmonary capillaries	varicose veins	alveoli	lymph capillaries
+earth	mars	uranus	neptune
+ribosomes	cytoskeleton	mitochondria	cytoplasm
+solute	pigment	osmotic	solvent
+air	emissions	liquids	gas
+roots	stems	leaves	flowers
+habit	system	life-cycle	niche
+abrasive	fluid	stable	dynamic
+stomach	basil	secretion	lymph
+three	four	one	two
+total impact	blunt force	critical force	net force
+consumption	absorption	contamination	light reactions
+insects	reptiles	mammals	birds
+neurotransmitter passage	dendritic gap	cell divide	the synapse
+vapors	lipds	particles	hydrocarbons
+B-complex	super foods	antioxidants	macronutrients
+carry oxygen	transport messages	excrete waste	help digest food
+osmosis	ionization	hydrolysis	solvation
+cabri cells	organic cells	localweather cells	voltaic cells
+extra alleles	one less chromosome	one isolated allele	one mutated allele
+minerals	scratches	metals	sediment
+axle	lever	pedal	pulley
+neurotransmitters	nutrients	hormones	antioxidants
+prime	negative	fractional	whole
+alloys	insulators	electromagnets	electricity conductors
+variability	cell division	mutation	heredity
+clouds	the ocean	the moon	the sun
+thermosphere	lithosphere	stratosphere	troposphere
+visual placenta	altered placenta	Movement Placenta	complex placenta
+seed	egg	nucleus	embryo
+plasma	platlets	white blood cells	red blood cells
+cold matter	hidden matter	black matter	dark matter
+dissipate	dilute	evaporate	condense
+throat	thorax	diaphragm	larnyx
+gravity	vapor	precipitation	heat
+carbon	argon	sulfur	oxygen
+acceleration	momentum	intensity	velocity
+a river	an eddy	a creek	a stream
+microscopic	primitive	sexual	asexual
+satellites	curves	ellipticals	orbits
+Parietal	Temporal lobe	Occipital	frontal
+spring	summer	autumn	winter
+the color of the eggs	the size of the eggs	the location of the eggs	the temperature of the eggs
+open and supergiant	closed and spherical	open and elliptical	open and globular
+predators	climates	spores	pollinators
+side on	head on	at a distance	at an angle
+flour	fruit	oils	yeast
+resist weight	support weight	drive weight	bear weight
+food	water	carbon	oxygen
+substrate	cell wall	stoma	membrane
+genetic drift	spontaneous mutation	transgene effects	pleiotropic effects
+yeast	bacteria	viruses	fungi
+expressive nerve cells	grid nerve cells	muscle cells	sensory nerve cells
+air, water, and socialization	sex, water, and sleep	water, food, and an ecosystem	air, water, and food
+pores	sporozoans	bales	allopolyploids
+covalent	magnesium	ionic	deuterium
+metallic compounds	soluble compounds	magnetic compounds	ionic compounds
+glycolysis	metamorphosis	osmosis	photosynthesis
+resistance	weight	energy	pressure
+molecular theory	Charles's Law	kinetic theory	kinetic molecular theory
+digestion	accumulation	osmosis	absorption
+cytoplasm	tadpoles	dna	sperm
+Wheel Line	once driveshaft	Gear Shift	turning driveshaft
+advancement	invention	industry	technology
+secular and nonpolar	filter and nonpolar	hot and nonpolar	polar and nonpolar
+string rule	diagonal rule	coupling rule	octet rule
+a bend	a divert	a sink	a divide
+incorporate immune system	societal immune system	suggestive immune system	adaptive immune system
+intuitive	genuine	learned	innate
+sex glands	push glands	water glands	sweat glands
+cochlear arches	aquatic arches	scythian arches	branchial arches
+liver output	respiratory output	blood output	cardiac output
+pteradactyls	sporozoans	staurikosaurus	therapods
+halogens	synthetics	noble gases	metalloids
+viscosity	size	salinity	solubility
+gaisers	trees	icebergs	active glaciers
+oxygen	sodium	hydrogen	carbon
+antimatter	essence	molecule	substance
+the colon	the kidney	the brain	the liver
+acidic	neutral	volatile	base
+past balance	predicted return	actual loss	theoretical yield
+mezas	megaliths	dunes	volcanoes
+proteins body	Eye body	Environmental	cell body
+light	magnetism	gravity	electricity
+succulents	pores	sporozoans	xerophytes
+vascular	autonomic	axons	sensory
+sweat gland	melanin gland	gametes gland	sebaceous gland
+perception	audio	fear	smell
+208	196	192	206
+roots	building	birds	plants
+oxidation	inhibition	diffusion	conduction
+microwave electrophoresis	surface electrophoresis	static electrophoresis	gel electrophoresis
+scientific extreme	scientific mimicry	scientific fact	scientific skepticism
+survival selection	natural evolution	fitness selection	natural selection
+fundamental acids	ionic acids	carbonic acids	fatty acids
+west and south	southwest and south	East and North	north and south
+digestive system	honor system	checks and balances	reward system
+magnetize electricity	repel electricity	deflect electricity	conduct electricity
+speciation	transcription	mutation	differentiation
+reversible	cancerous	observable	irreversible
+five	six	four	five
+polar	hydrogen	metallic	covalent
+dermal	single celled	vegetative	epidermal
+fungi	photoreactive plants	trees	nonvascular plants
+frequency	threshold	variation	wavelength
+detritivores	nematodes	carnivores	decomposers
+proteins	life	organ	cell
+methodology	terminology	botany	taxonomy
+tendons	veins	ligaments	muscle
+flood	pestilence	disease	drought
+changes to gas	it shrinks	changes volume	it expands
+appendix	colon	cecum	ileum
+viscosity	density	resonance	buoyancy
+generators	electricity	complexes	reactants
+fusion	homogeneous mixture	symbiosis	mutualism
+viscosity theory	vortex theory	Avoidance theory	kinetic theory
+whales	dolphins	manatees	sharks
+solutes	luminescent	Solar Energy	electroluminescence
+granite	soil	fertilizer	magma
+bone	nerve cells	cartilage	a layer of fat
+water	base	citrus	acid
+oxygen	carbon	helium	hydrogen
+molecule	organism	function	element
+amorphous	pliable	fibrous	porous
+fuel	energy	habitat	food
+membranes	atoms	neurons	tetrahedral
+egg	placenta	testes	ovary
+glycolysis	absorbtion	chlorophyll	photosynthesis
+atom	molecule	nucleus	cell
+overlap the earth	change size	lose orbit	orbit the earth
+neurons	electrolytes	receptors	neurotransmitters
+water	hydrogen	fuel	energy
+pleasant	useful	lush	ideal
+catalyst	pathway	receptor	inhibitor
+six	four	three	five
+fuel	gravity	enthalpy	energy
+width continuity	bilateral continuity	directly continuity	lateral continuity
+weight	radio	electricity	light
+exotic	endotopic	warm	oceanic
+quickly then slowly	quickly	slowly then quickly	slowly
+cells	supermolecule	plasma	polymer
+clouds and sand	ice and dust	coulds and minerals	clouds and dust
+creating	creating	inhibiting	signaling
+dieting	homeostasis	itching	sweating
+industry	concept	evolution	technology
+multiple fission	solar fission	residual fission	binary fission
+structural acids	proteins acids	amino acids	nucleic acids
+abdomen	cocklebur	spicule	pseudocoelom
+skeletal system	circulation system	hormonal system	digestive system
+Obesity	TB	Cancer	diabetes
+basic remediation	toxic remediation	carbon remediation	chemical remediation
+ocean vaporization	acid rain	desalinization	ocean acidification
+respiratory muscle	idealized muscle	nerve muscle	cardiac muscle
+circle	shell	atom	cell
+temperature science	psychology	astronomy	physical science
+water	horizon	earth	sun
+white	pink	yellow	blue
+germination	glucose	estrogen	progesterone
+dense bombs	dirty bombs	TNT	nuclear
+oils	acids	minerals	metals
+it warms	it vibrates	it disperses	it cools
+brain cells	hair and nail cells	egg cells	plant cells
+insulation	spawning	fertilization	incubation
+creep	slide	shearing	slump
+liver	brain	kidneys	lungs
+plasmology	spirogyra	xerophyte	plasmogamy
+1	3	5	4
+transition	parthenogenesis	proboscis	metamorphosis
+plasma formula	atomic formula	nucleus formula	molecular formula
+atoms	cells	molecules	organs
+brightness	radiation	precipitation	temperature
+turning to liquid	migrating	growing faster	going dormant
+ions	molecules	electrons	atoms
+eating plants or sediments	eating plants other animals	eating plants or bugs	eating plants or organisms
+aqueous	lipophilic	neutral	hydrophobic
+liver	bone marrow	pituitary gland	thymus gland
+models	configuration	map	formula
+propulsion	combustion	expansion	a collision
+glandular	glaucous	homozygous	oviparous
+carbohydrate	liquid nitrogen	blue ice	dry ice
+water	light	food	matter
+mixed	filled	cooled	heated
+growth	evolution	interaction	nurture
+decay numbers	gravity numbers	kinetic numbers	quantum numbers
+cell substrate	cell center	cell vacuum	cell membrane
+evaporation	boiling	melting	freezing
+autotrophs	autosome	diploid	polyploid
+sediments	lakes	oceans	glaciers
+forming of stem cells	forming of brain cells	forming of muscle tissue	forming of reproductive cells
+sound	seismic	tsunamis	electromagnetic
+blood count	blood amount	blood form	blood type
+underground	in volcanoes	in water	surface
+sucrose	carbonate	peptide	phosphatase
+Pathway and nervous	marrow and nervous	connectors and nervous	endocrine and nervous
+coastal biomes	aquatic biomes	marine biomes	freshwater biomes
+atoms	quarks	ions	electrons
+basic	neutral	dioxide	acid
+kinetic	olfactory	automatic	sensory
+fossil fuels	erosion record	climate record	fossil record
+virus	stones	inflammation	dialysis
+vapor energy	potential energy	fission energy	ionization energy
+regulatory	digestive	circulatory	nervous
+inertia theory	conservtion of matter	Big Bang theory	kinetic theory of matter
+tertiary	primary	quaternary	secondary
+digestion	chemical processes	farming	photosynthesis
+nanoevolution	minievolution	small evolution	microevolution
+to protect their territory	to dissuade predators	to signal feeding	to attract mates
+craters	escarpments	mantles	cratons
+speed	color	weight	population
+milky way	vesta belt	photon belt	kuiper belt
+mammal	humans	living thing	fetus
+ions	unstable	destructive	radioactive
+formaldehyde	sulfuric acid	sulfur monoxide	sulfur dioxide (so2)
