@@ -15,7 +15,6 @@ Structure :
 <li> Correct Answer: The correct answer option. </li> 
 <li> Support: A sentence that supports the correct answer option. </li> 
 <br/>
-<img src="https://github.com/Ssanyachetwani/Closed-Domain-Multiple-Choice-Question-Answering-System-for-Science-Questions/blob/main/rim/SciQ.png" alt="datab" width=350/>
 
 ## MY APPROACH : 
 
